@@ -5,6 +5,21 @@
 @media screen and (min-width: 500px) {
 }
 
-navbar-nav  {
-    
+.container-images {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align: middle;
+
+}
+.portfolio {
+    text-align: center;
+}
+.portfolio.images {
+    border: solid 3px lightcoral;
+    padding-bottom: 10em;
 }
