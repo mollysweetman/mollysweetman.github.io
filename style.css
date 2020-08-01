@@ -33,12 +33,21 @@
 body {
     background-color: lightgray;
 }
-
+.portfolio {
+    background-image: url('./assets/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 .card {
     background-color: whitesmoke;
     border: solid 2px darkgray;
     margin-bottom: auto;
+    margin: 0 auto; Added 
+    float: none; Added 
+    margin-bottom: 10px; 
 }
+
 .alert {
     background-color: lightgray;
 }
