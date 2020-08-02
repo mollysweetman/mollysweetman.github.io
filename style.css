@@ -2,7 +2,15 @@
     width: 100%;
     min-width: 360px;
 }
+
 @media screen and (min-width: 500px) {
+}
+.col-6 {
+    float: left;
+    max-width: 100%;
+    list-style: circle;
+    border: solid 3px hotpink;S
+
 }
 
 .container-fluid {
