@@ -14,5 +14,9 @@ This website is designed to show a portfolio.This is a simplified, functional ex
 
 
 [mollysweetman](https://github.com/mollysweetman/mollysweetman.github.io) is hosted on github pages
+![mollysweetman.github.io landing page](assets/screenshot.png)
 
 this application is authored by Molly Sweetman https://github.com/mollysweetman
+
+Credits
+    google- background image on the portfolio page. 
